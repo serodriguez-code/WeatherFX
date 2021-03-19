@@ -153,5 +153,3 @@ Weather [
 | **Total**                                                    | **100**        |
 
 > **El profesor determinará el grado de cumplimiento de cada apartado a partir de la ejecución de la aplicación, por lo que es sumamente importante que los apartados que queremos que puntúen se puedan probar.** 
-
-# WeatherFX
